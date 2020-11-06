@@ -1,0 +1,14 @@
+
+*.webm
+
+*.avi
+
+_models/
+
+*.mp4
+
+posenet/__pycache__/
+
+*.pyc
+
+venv/
